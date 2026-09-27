@@ -10,7 +10,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.2: an early version.** Two of the game's six regions are
+> **Version 0.2.1: an early version.** Two of the game's six regions are
 > here, El Barrio and Viejo San Juan, with 13 stages between them. More
 > regions arrive in later updates, and the game says so wherever they will be.
 
@@ -153,7 +153,7 @@ with the two common coquís; the guajón joins in Los Guajonales and the golden
 coquí in Sierra de Cayey, regions that arrive in later updates. Until then,
 bring a friend to play them.
 
-## What's in version 0.2
+## What's in version 0.2.1
 
 An early version, with **2 of the 6 regions**:
 
