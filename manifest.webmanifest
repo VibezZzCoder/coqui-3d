@@ -1,0 +1,37 @@
+{
+  "name": "Coquí al Anochecer 2",
+  "short_name": "Coquí 2",
+  "description": "A coquí’s evening journey across Puerto Rico, alone or with up to four friends on one screen. By Edwin RodMen.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#070b1c",
+  "theme_color": "#070b1c",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
