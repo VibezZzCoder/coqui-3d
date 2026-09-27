@@ -10,8 +10,8 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.2.1: an early version.** Two of the game's six regions are
-> here, El Barrio and Viejo San Juan, with 13 stages between them. More
+> **Version 0.3.0: an early version.** Three of the game's seven regions are
+> here: El Barrio, Viejo San Juan and El Yunque, with 20 stages between them. More
 > regions arrive in later updates, and the game says so wherever they will be.
 
 ## The story so far
@@ -23,16 +23,16 @@ one night in a mountain barrio to reach the evening chorus.
 The coquí, the little tree frog whose two-note *co-quí* fills every Puerto Rican
 night, is out again, and this time the evening goes further. The journey starts
 in the barrio of the first game, rebuilt in 3D with heights to climb, and
-carries on into the old streets of San Juan. Each region is one evening, from
+carries on into the old streets of San Juan and the rainforest of El Yunque. Each region is one evening, from
 sunset to full night, and at its end the chorus answers.
 
 |  |  |
 |---|---|
-| ![La Carreterita, El Barrio, at sunset](media/el-barrio-la-carreterita.png) | ![El Coro, El Barrio, at full night](media/el-barrio-el-coro.png) |
+| ![La Carreterita, El Barrio, at sunset](media/el-barrio-la-carreterita.png) | ![La Coca waterfall, El Yunque, at dusk](media/el-yunque-la-coca.png) |
 | ![La Plazuela, Viejo San Juan, at dusk](media/viejo-san-juan-la-plazuela.png) | ![Four friends on Calle del Sol, Viejo San Juan](media/four-friends.png) |
 
-*La Carreterita at sunset and El Coro at full night, in El Barrio; La Plazuela
-at dusk, and four friends on Calle del Sol, in Viejo San Juan.*
+*La Carreterita in El Barrio; La Coca in El Yunque; La Plazuela
+and four friends on Calle del Sol, in Viejo San Juan.*
 
 ## How to play
 
@@ -48,8 +48,8 @@ moment you land.
 
 **Climb.** Walls, steps, pots, benches and ledges can be climbed one level at a
 time; hop toward one and your frog climbs on. You can drop from any height.
-Everything that can catch you stays on the ground, so anything raised is a
-safe place to wait.
+Raised spots let you wait above ground traffic. In El Yunque, also watch
+for crab spiders and the múcaro overhead.
 
 **Call.** Press Call whenever you like and your frog sings its own species'
 call. Frogs already on the perch keep singing on their own, so the chorus grows
@@ -62,7 +62,8 @@ Hop onto one to catch it for **300** points.
 patio before dusk; a mongoose that rustles in the hedge, then dashes across; the
 Puerto Rican boa, long and slow, after dark; and neighbours out walking in the
 streets of Viejo San Juan. Arrows at the edge of the screen warn you of
-vehicles on their way.
+vehicles on their way. El Yunque adds slippery mud, rising water, crab spiders
+and the múcaro; watch the forest and choose your moment to hop.
 
 **Tumbles, not lives.** If something catches you, your frog tumbles and pops
 back at its own start square. There are no lives and no game over: try again as
@@ -153,23 +154,31 @@ with the two common coquís; the guajón joins in Los Guajonales and the golden
 coquí in Sierra de Cayey, regions that arrive in later updates. Until then,
 bring a friend to play them.
 
-## What's in version 0.2.1
+## What's in version 0.3.0
 
-An early version, with **2 of the 6 regions**:
+An early version, with **3 of the 7 regions**:
 
-| El Barrio: 7 stages | Viejo San Juan: 6 stages |
-|---|---|
-| 1. El Patio | 1. Calle del Sol |
-| 2. La Vereda | 2. La Caleta |
-| 3. La Carreterita | 3. El Callejón |
-| 4. La Marquesina | 4. La Plazuela |
-| 5. El Colmado | 5. Calle de la Luna |
-| 6. El Cafetal | 6. La Escalinata |
-| 7. El Coro | |
+| El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
+|---|---|---|
+| 1. El Patio | 1. Calle del Sol | 1. La Coca |
+| 2. La Vereda | 2. La Caleta | 2. El Tabonuco |
+| 3. La Carreterita | 3. El Callejón | 3. La Poza |
+| 4. La Marquesina | 4. La Plazuela | 4. La Palma de Sierra |
+| 5. El Colmado | 5. Calle de la Luna | 5. El Palo Colorado |
+| 6. El Cafetal | 6. La Escalinata | 6. El Aguacero |
+| 7. El Coro | | 7. El Bosque Enano |
+
+### What's new in 0.3
+
+- **El Yunque:** seven rainforest stages, from La Coca to El Bosque Enano,
+  with new forest hazards, music and an evening chorus.
+- **A loading screen:** follows the game's progress as it gets ready to play.
+- **Clearer homes:** a warm landing edge and coquí motif, in materials that
+  fit each of the three regions.
 
 Each region's stages run from sunset to full night. Finishing El Barrio carries
-you straight on into Viejo San Juan. **Continue journey** picks up at the stage
-you were on, and **Choose region** replays any region you have reached.
+you into Viejo San Juan, then El Yunque. **Continue journey** picks up at the
+stage you were on, and **Choose region** replays any region you have reached.
 
 More regions arrive in later updates. Until then, the menus mark them *Arrives
 in a later update*, and the **Challenges** on the menu, which open after the
