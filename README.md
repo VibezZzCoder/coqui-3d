@@ -10,9 +10,10 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.3.0: an early version.** Three of the game's seven regions are
-> here: El Barrio, Viejo San Juan and El Yunque, with 20 stages between them. More
-> regions arrive in later updates, and the game says so wherever they will be.
+> **Version 0.4.0: an early version.** Four of the game's seven regions are
+> here: El Barrio, Viejo San Juan, El Yunque and Los Guajonales, with 28 stages
+> between them. More regions arrive in later updates, and the game says so
+> wherever they will be.
 
 ## The story so far
 
@@ -23,23 +24,26 @@ one night in a mountain barrio to reach the evening chorus.
 The coquí, the little tree frog whose two-note *co-quí* fills every Puerto Rican
 night, is out again, and this time the evening goes further. The journey starts
 in the barrio of the first game, rebuilt in 3D with heights to climb, and
-carries on into the old streets of San Juan and the rainforest of El Yunque. Each region is one evening, from
+carries on into the old streets of San Juan, the rainforest of El Yunque and
+the granite ravines of Los Guajonales. Each region is one evening, from
 sunset to full night, and at its end the chorus answers.
 
 |  |  |
 |---|---|
 | ![La Carreterita, El Barrio, at sunset](media/el-barrio-la-carreterita.png) | ![La Coca waterfall, El Yunque, at dusk](media/el-yunque-la-coca.png) |
-| ![La Plazuela, Viejo San Juan, at dusk](media/viejo-san-juan-la-plazuela.png) | ![Four friends on Calle del Sol, Viejo San Juan](media/four-friends.png) |
+| ![La Plazuela, Viejo San Juan, at dusk](media/viejo-san-juan-la-plazuela.png) | ![La Laja, Los Guajonales, with granite landings and a stream](media/los-guajonales-la-laja.png) |
 
-*La Carreterita in El Barrio; La Coca in El Yunque; La Plazuela
-and four friends on Calle del Sol, in Viejo San Juan.*
+![Four friends on Calle del Sol, Viejo San Juan](media/four-friends.png)
+
+*La Carreterita in El Barrio; La Coca in El Yunque; La Plazuela in Viejo San
+Juan; La Laja in Los Guajonales; and four friends on Calle del Sol.*
 
 ## How to play
 
 **Reach the perch.** Every stage is one screen. Your frog starts at the bottom
 and hops, one square at a time, to the perch waiting across the way: a
-hibiscus, a planter, a leafy bed. With friends, the stage ends when every frog
-is on the perch.
+hibiscus, a planter, a leafy bed or a sheltered granite edge. With friends,
+the stage ends when every frog is on the perch.
 
 **One press, one hop.** Each press is one hop in one of four directions, with
 no diagonals, and holding a direction does not repeat. A hop is a commitment:
@@ -49,13 +53,14 @@ moment you land.
 **Climb.** Walls, steps, pots, benches and ledges can be climbed one level at a
 time; hop toward one and your frog climbs on. You can drop from any height.
 Raised spots let you wait above ground traffic. In El Yunque, also watch
-for crab spiders and the múcaro overhead.
+for crab spiders and the múcaro overhead. In Los Guajonales, guabás and
+tarántulas can reach raised rock landings too; height alone is no guarantee.
 
 **Call.** Press Call whenever you like and your frog sings its own species'
 call. Frogs already on the perch keep singing on their own, so the chorus grows
 as friends arrive.
 
-**Insects.** Two or three glowing fireflies hover over squares on every stage.
+**Insects.** Glowing fireflies hover over squares on every stage.
 Hop onto one to catch it for **300** points.
 
 **Hazards.** Cars, motos, pickups and delivery vans on the roads; a hen in the
@@ -63,7 +68,8 @@ patio before dusk; a mongoose that rustles in the hedge, then dashes across; the
 Puerto Rican boa, long and slow, after dark; and neighbours out walking in the
 streets of Viejo San Juan. Arrows at the edge of the screen warn you of
 vehicles on their way. El Yunque adds slippery mud, rising water, crab spiders
-and the múcaro; watch the forest and choose your moment to hop.
+and the múcaro. Los Guajonales adds guabás, tarántulas and shower-fed streams
+that rise across the route. Watch the scenery and choose your moment to hop.
 
 **Tumbles, not lives.** If something catches you, your frog tumbles and pops
 back at its own start square. There are no lives and no game over: try again as
@@ -150,35 +156,40 @@ All four hop, climb and call the same way; they differ in look, size and voice.
 | **Guajón** | Rock frog (*E. cooki*) | Plain brown, big white-rimmed eyes | Low, melodious notes |
 
 With friends, all four frogs are free from the start. Playing alone, you start
-with the two common coquís; the guajón joins in Los Guajonales and the golden
-coquí in Sierra de Cayey, regions that arrive in later updates. Until then,
-bring a friend to play them.
+with the two common coquís. Reach **La Grieta**, the fourth stage of Los
+Guajonales, to unlock the guajón for later solo selections. The golden coquí
+joins in Sierra de Cayey, which arrives in a later update; until then, bring
+a friend to play it.
 
-## What's in version 0.3.0
+## What's in version 0.4.0
 
-An early version, with **3 of the 7 regions**:
+An early version, with **4 of the 7 regions**:
 
-| El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
-|---|---|---|
-| 1. El Patio | 1. Calle del Sol | 1. La Coca |
-| 2. La Vereda | 2. La Caleta | 2. El Tabonuco |
-| 3. La Carreterita | 3. El Callejón | 3. La Poza |
-| 4. La Marquesina | 4. La Plazuela | 4. La Palma de Sierra |
-| 5. El Colmado | 5. Calle de la Luna | 5. El Palo Colorado |
-| 6. El Cafetal | 6. La Escalinata | 6. El Aguacero |
-| 7. El Coro | | 7. El Bosque Enano |
+| El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages | Los Guajonales: 8 stages |
+|---|---|---|---|
+| 1. El Patio | 1. Calle del Sol | 1. La Coca | 1. El Potrero |
+| 2. La Vereda | 2. La Caleta | 2. El Tabonuco | 2. El Seboruco |
+| 3. La Carreterita | 3. El Callejón | 3. La Poza | 3. Los Peñones |
+| 4. La Marquesina | 4. La Plazuela | 4. La Palma de Sierra | 4. La Grieta |
+| 5. El Colmado | 5. Calle de la Luna | 5. El Palo Colorado | 5. La Laja |
+| 6. El Cafetal | 6. La Escalinata | 6. El Aguacero | 6. El Risco |
+| 7. El Coro | | 7. El Bosque Enano | 7. La Cueva |
+| | | | 8. El Guajonal |
 
-### What's new in 0.3
+### What's new in 0.4
 
-- **El Yunque:** seven rainforest stages, from La Coca to El Bosque Enano,
-  with new forest hazards, music and an evening chorus.
-- **A loading screen:** follows the game's progress as it gets ready to play.
-- **Clearer homes:** a warm landing edge and coquí motif, in materials that
-  fit each of the three regions.
+- **Los Guajonales:** eight stages through granite ravines, crevices, streams
+  and a rain-fed cave, from El Potrero to El Guajonal.
+- **New encounters and sound:** guabás, tarántulas, rising water and a deep
+  bordonúa score that answers the evening chorus.
+- **The guajón joins solo play:** reach La Grieta to unlock it.
+- **Readable rock landings:** gently lit tops and clearer shoulders help you
+  judge your next hop.
 
 Each region's stages run from sunset to full night. Finishing El Barrio carries
-you into Viejo San Juan, then El Yunque. **Continue journey** picks up at the
-stage you were on, and **Choose region** replays any region you have reached.
+you into Viejo San Juan, then El Yunque and Los Guajonales. **Continue journey**
+picks up at the stage you were on, and **Choose region** replays any region you
+have reached.
 
 More regions arrive in later updates. Until then, the menus mark them *Arrives
 in a later update*, and the **Challenges** on the menu, which open after the

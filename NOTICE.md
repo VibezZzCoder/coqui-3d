@@ -33,8 +33,9 @@ art, and the screenshots in `media/`, captured from the game.
 
 ## Places, people and brands
 
-The game is set in real places in Puerto Rico, a mountain barrio and the
-streets of Old San Juan and the rainforest of El Yunque, and depicts them as fiction. Its stages are imagined,
+The game draws on Puerto Rico: a mountain barrio, the streets of Old San Juan,
+the rainforest of El Yunque and the granite ravines called guajonales. It
+depicts these settings as fiction. Its stages are imagined,
 not maps or reproductions of particular properties, and its people, vehicles,
 shops and signs are generic. The frog species are real Puerto Rican animals;
 their looks and calls in the game are recreations made in code, not recordings.
