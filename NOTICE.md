@@ -34,11 +34,13 @@ art, and the screenshots in `media/`, captured from the game.
 ## Places, people and brands
 
 The game draws on Puerto Rico: a mountain barrio, the streets of Old San Juan,
-the rainforest of El Yunque and the granite ravines called guajonales. It
-depicts these settings as fiction. Its stages are imagined,
-not maps or reproductions of particular properties, and its people, vehicles,
-shops and signs are generic. The frog species are real Puerto Rican animals;
-their looks and calls in the game are recreations made in code, not recordings.
+the rainforest of El Yunque, the granite ravines called guajonales and the
+mountain roads and peaks of the Sierra de Cayey. It depicts these settings as
+fiction. Its stages are imagined, not maps or reproductions of particular
+properties, and its people, vehicles, shops and signs are generic, apart from a
+public highway's route shield and kilometer marker. The frog species are real
+Puerto Rican animals; their looks and calls in the game are recreations made in
+code, not recordings.
 
 The game is not affiliated with, endorsed by or sponsored by any business,
 government agency, organization or brand. Any resemblance of a shop, sign or
