@@ -10,7 +10,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.5.0: an early version.** Five of the game's seven regions are
+> **Version 0.5.1: an early version.** Five of the game's seven regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales and Sierra de Cayey,
 > with 34 stages between them. More regions arrive in later updates, and the
 > game says so wherever they will be.
@@ -167,7 +167,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.5.0
+## What's in version 0.5.1
 
 An early version, with **5 of the 7 regions**:
 
@@ -181,6 +181,13 @@ An early version, with **5 of the 7 regions**:
 | 6. El Cafetal | 6. La Escalinata | 6. El Aguacero | 6. El Risco | 6. Las Tetas |
 | 7. El Coro | | 7. El Bosque Enano | 7. La Cueva | |
 | | | | 8. El Guajonal | |
+
+### What's new in 0.5.1
+
+- **Smoother co-op moments:** when the múcaro catches several frogs at once,
+  its swoop now visibly reaches each of them and no longer brushes through the
+  farm gate at La Finca; and frogs crowding onto a perch together, even with a
+  skip, no longer overlap or swap places as they settle.
 
 ### What's new in 0.5
 
