@@ -1,6 +1,6 @@
 # Coquí al Anochecer 2
 
-*A coquí's evening journey across Puerto Rico, alone or with up to four
+*A coquí's evening journey across Puerto Rico, alone or with up to three
 friends on one screen.* A browser game by **Edwin RodMen**.
 
 ### ▶ [Play it in your browser](https://vibezzzcoder.github.io/coqui-3d/)
@@ -10,10 +10,15 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.5.1: an early version.** Five of the game's seven regions are
-> here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales and Sierra de Cayey,
-> with 34 stages between them. More regions arrive in later updates, and the
-> game says so wherever they will be.
+> **Version 0.6.0: an early version.** Six of the game's seven regions are
+> here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey
+> and Cabo Rojo, with 42 stages between them. The final region arrives in a later
+> update, and the game says so wherever it appears.
+
+<p align="center"><img src="media/cabo-rojo-playa-sucia.png" width="760" alt="Playa Sucia in Cabo Rojo: the curved bay, coastal cliffs and Los Morrillos lighthouse beyond the hopping route"></p>
+
+*New in 0.6.0: Cabo Rojo, from the lighthouse and Playa Sucia's bay to the salt
+pans, mangroves, fishing harbour and town plaza.*
 
 ## The story so far
 
@@ -25,7 +30,8 @@ The coquí, the little tree frog whose two-note *co-quí* fills every Puerto Ric
 night, is out again, and this time the evening goes further. The journey starts
 in the barrio of the first game, rebuilt in 3D with heights to climb, and
 carries on into the old streets of San Juan, the rainforest of El Yunque, the
-granite ravines of Los Guajonales and the mountain roads of the Sierra de Cayey.
+granite ravines of Los Guajonales, the mountain roads of the Sierra de Cayey
+and the coast of Cabo Rojo.
 Each region is one evening, from sunset to full night, and at its end the
 chorus answers.
 
@@ -44,7 +50,7 @@ friends on Calle del Sol.*
 **Reach the perch.** Every stage is one screen. Your frog starts at the bottom
 and hops, one square at a time, to the perch waiting across the way: a
 hibiscus, a planter, a leafy bed, a sheltered granite edge or a mountain
-stone seat. With friends,
+stone seat or a coastal stone bench. With friends,
 the stage ends when every frog is on the perch.
 
 **One press, one hop.** Each press is one hop in one of four directions, with
@@ -74,7 +80,9 @@ vehicles on their way. El Yunque adds slippery mud, rising water, crab spiders
 and the múcaro. Los Guajonales adds guabás, tarántulas and shower-fed streams
 that rise across the route. The Sierra de Cayey adds mountain roads with a
 hairpin bend, steep climbs watched by several múcaros at once, and cloud on
-the ridge that dims the distance but never hides a warning. Watch the scenery
+the ridge that dims the distance but never hides a warning. Cabo Rojo brings
+shore crabs, surf washing over the beach, salt-pan tide gates, Cuban tree frogs
+and yaboas watching the mangroves and harbour. Watch the scenery
 and choose your moment to hop.
 
 **Tumbles, not lives.** If something catches you, your frog tumbles and pops
@@ -167,20 +175,43 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.5.1
+## What's in version 0.6.0
 
-An early version, with **5 of the 7 regions**:
+An early version, with **6 of the 7 regions**:
 
-| El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages | Los Guajonales: 8 stages | Sierra de Cayey: 6 stages |
-|---|---|---|---|---|
-| 1. El Patio | 1. Calle del Sol | 1. La Coca | 1. El Potrero | 1. La Lechonera |
-| 2. La Vereda | 2. La Caleta | 2. El Tabonuco | 2. El Seboruco | 2. La Curva |
-| 3. La Carreterita | 3. El Callejón | 3. La Poza | 3. Los Peñones | 3. La Finca |
-| 4. La Marquesina | 4. La Plazuela | 4. La Palma de Sierra | 4. La Grieta | 4. Las Bromelias |
-| 5. El Colmado | 5. Calle de la Luna | 5. El Palo Colorado | 5. La Laja | 5. La Neblina |
-| 6. El Cafetal | 6. La Escalinata | 6. El Aguacero | 6. El Risco | 6. Las Tetas |
-| 7. El Coro | | 7. El Bosque Enano | 7. La Cueva | |
-| | | | 8. El Guajonal | |
+| El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
+|---|---|---|
+| 1. El Patio | 1. Calle del Sol | 1. La Coca |
+| 2. La Vereda | 2. La Caleta | 2. El Tabonuco |
+| 3. La Carreterita | 3. El Callejón | 3. La Poza |
+| 4. La Marquesina | 4. La Plazuela | 4. La Palma de Sierra |
+| 5. El Colmado | 5. Calle de la Luna | 5. El Palo Colorado |
+| 6. El Cafetal | 6. La Escalinata | 6. El Aguacero |
+| 7. El Coro | | 7. El Bosque Enano |
+
+| Los Guajonales: 8 stages | Sierra de Cayey: 6 stages | Cabo Rojo: 8 stages |
+|---|---|---|
+| 1. El Potrero | 1. La Lechonera | 1. Los Morrillos |
+| 2. El Seboruco | 2. La Curva | 2. Playa Sucia |
+| 3. Los Peñones | 3. La Finca | 3. Las Salinas |
+| 4. La Grieta | 4. Las Bromelias | 4. El Bosque Seco |
+| 5. La Laja | 5. La Neblina | 5. El Manglar |
+| 6. El Risco | 6. Las Tetas | 6. El Poblado |
+| 7. La Cueva | | 7. Puerto Real |
+| 8. El Guajonal | | 8. La Plaza |
+
+### What's new in 0.6.0
+
+- **Cabo Rojo:** eight stages from Los Morrillos lighthouse at sunset to the
+  church and plaza at full night, with Playa Sucia's bay, pink salt pans, dry
+  forest, mangroves and fishing boats along the way.
+- **Coastal encounters and music:** timed surf and tide gates, shore crabs,
+  Cuban tree frogs and yaboas, accompanied by Cabo Rojo's own *Retreta*.
+- **Water and sound polish:** calmer reflections, softer ripples, finer coastal
+  foam and clearer shallow streams; the animals at Los Morrillos leave quiet
+  gaps between their footsteps.
+- **More room for friends:** broader entrances at El Manglar and La Plaza let
+  outer frogs leave while their friends wait.
 
 ### What's new in 0.5.1
 
@@ -204,13 +235,13 @@ An early version, with **5 of the 7 regions**:
   catches.
 
 Each region's stages run from sunset to full night. Finishing El Barrio carries
-you into Viejo San Juan, then El Yunque, Los Guajonales and the Sierra de
-Cayey. **Continue journey**
+you into Viejo San Juan, then El Yunque, Los Guajonales, the Sierra de
+Cayey and Cabo Rojo. **Continue journey**
 picks up at the stage you were on, and **Choose region** replays any region you
 have reached.
 
-More regions arrive in later updates. Until then, the menus mark them *Arrives
-in a later update*, and the **Challenges** on the menu, which open after the
+The final region, El Gran Coro, arrives in a later update. Until then, the
+menus mark it *Arrives in a later update*, and the **Challenges** on the menu, which open after the
 whole journey, are still to come as well.
 
 ### Mallorcas
@@ -313,6 +344,7 @@ screenshots in `media/`, captured from this very build.
 
 - This game: <https://github.com/VibezZzCoder/coqui-3d>
 - Instagram: [@edwin_rodmen](https://www.instagram.com/edwin_rodmen/)
+- YouTube: [@EdwinRodMen](https://www.youtube.com/@EdwinRodMen)
 - The first game, *Coquí al Anochecer* for the Super NES: <https://github.com/VibezZzCoder/coqui-snes>
 
 Built with [three.js](https://threejs.org/) (MIT License).
@@ -346,4 +378,4 @@ else, ask in the [repository](https://github.com/VibezZzCoder/coqui-3d).
 
 ---
 
-© 2026 Edwin RodMen. All rights reserved. · [@edwin_rodmen](https://www.instagram.com/edwin_rodmen/)
+© 2026 Edwin RodMen. All rights reserved. · [@edwin_rodmen](https://www.instagram.com/edwin_rodmen/) · [YouTube](https://www.youtube.com/@EdwinRodMen)

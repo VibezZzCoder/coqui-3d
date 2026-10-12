@@ -9,6 +9,7 @@
 | Play | <https://vibezzzcoder.github.io/coqui-3d/> |
 | Repository | <https://github.com/VibezZzCoder/coqui-3d> |
 | Author | [@edwin_rodmen](https://www.instagram.com/edwin_rodmen/) on Instagram |
+| YouTube | [@EdwinRodMen](https://www.youtube.com/@EdwinRodMen) |
 | Copyright | © 2026 Edwin RodMen. All rights reserved. |
 
 The same credits are on the game's title screen and on its Credits screen
@@ -35,10 +36,12 @@ art, and the screenshots in `media/`, captured from the game.
 
 The game draws on Puerto Rico: a mountain barrio, the streets of Old San Juan,
 the rainforest of El Yunque, the granite ravines called guajonales and the
-mountain roads and peaks of the Sierra de Cayey. It depicts these settings as
-fiction. Its stages are imagined, not maps or reproductions of particular
-properties, and its people, vehicles, shops and signs are generic, apart from a
-public highway's route shield and kilometer marker. The frog species are real
+mountain roads and peaks of the Sierra de Cayey, and Cabo Rojo's coast, salt
+pans, mangroves and town. Its stages are imagined routes, inspired by these
+places rather than navigable maps. Los Morrillos lighthouse and the San Miguel
+Arcángel church are recreated in code as public landmarks. Its people,
+vehicles, shops and signs are generic, apart from public place names, a highway's
+route shield and kilometer marker. The frog species are real
 Puerto Rican animals; their looks and calls in the game are recreations made in
 code, not recordings.
 
