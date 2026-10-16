@@ -10,15 +10,15 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.6.0: an early version.** Six of the game's seven regions are
+> **Version 0.6.1: an early version.** Six of the game's seven regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey
 > and Cabo Rojo, with 42 stages between them. The final region arrives in a later
 > update, and the game says so wherever it appears.
 
 <p align="center"><img src="media/cabo-rojo-playa-sucia.png" width="760" alt="Playa Sucia in Cabo Rojo: the curved bay, coastal cliffs and Los Morrillos lighthouse beyond the hopping route"></p>
 
-*New in 0.6.0: Cabo Rojo, from the lighthouse and Playa Sucia's bay to the salt
-pans, mangroves, fishing harbour and town plaza.*
+*New in 0.6.1: quieter, less repetitive backgrounds across every region, with
+clear nearby hazard warnings and a more natural treefrog return in El Bosque Seco.*
 
 ## The story so far
 
@@ -175,7 +175,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.6.0
+## What's in version 0.6.1
 
 An early version, with **6 of the 7 regions**:
 
@@ -199,6 +199,15 @@ An early version, with **6 of the 7 regions**:
 | 6. El Risco | 6. Las Tetas | 6. El Poblado |
 | 7. La Cueva | | 7. Puerto Real |
 | 8. El Guajonal | | 8. La Plaza |
+
+### What's new in 0.6.1
+
+- **Calmer backgrounds:** quieter ambience, longer insect lulls and more space
+  between animal calls across all six regions.
+- **Less repetitive effects:** shorter mongoose footstep bursts and softer
+  distant traffic and environmental sounds, while keeping nearby hazard warnings.
+- **A natural return:** after attacking in El Bosque Seco, the Cuban treefrog
+  turns toward its tree and jumps back head-first before settling on the bark.
 
 ### What's new in 0.6.0
 
