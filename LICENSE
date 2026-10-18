@@ -30,7 +30,22 @@ By playing, copying or sharing the Game you agree to these terms.
    without asking permission. Crediting Edwin RodMen and linking to the
    repository above is appreciated.
 
-4. What is not permitted
+4. Fan works
+
+   You may make and share your own fan works inspired by the Game, such as
+   drawings, paintings, crafts, cosplay, stories, and covers of its music
+   played or sung by you, as long as:
+
+   a. you make them yourself and do not copy the Game's code, art, models,
+      textures, sounds or music recordings into them (screenshots and clips
+      in your own coverage are covered by section 3);
+   b. you share them free of charge, not as something for sale; and
+   c. you do not present them as official, or as made or endorsed by
+      Edwin RodMen.
+
+   Fan games and mods are not fan works under this section.
+
+5. What is not permitted
 
    Except as this license expressly allows, you may not:
 
@@ -44,47 +59,48 @@ By playing, copying or sharing the Game you agree to these terms.
    d. present the Game, or any part of it, as the work of anyone other than
       Edwin RodMen, or suggest that Edwin RodMen endorses you or your work;
    e. reuse the Game's code, art, visuals, characters, music, sounds, stages or
-      level designs, or text in any other work;
+      level designs, or text in any other work, except in fan works as
+      section 4 allows;
    f. distribute source code extracted or reconstructed from the Game, or any
       part of the Game on its own.
 
-5. Name and marks
+6. Name and marks
 
    This license does not grant any right to use the names "Coquí al Anochecer 2" or
    "Coquí al Anochecer", their wordmarks or the author's name for any other
    product or work. You may use them to refer truthfully to the Game, for
-   example in the title of a video or a review.
+   example in the title of a video, a review or a fan work.
 
-6. Third-party components
+7. Third-party components
 
    The Game includes third-party software under its own license, notably
    three.js (MIT License), whose full text is reproduced in NOTICE.md. Nothing
    in this license limits the rights that license gives you in that software.
 
-7. No warranty
+8. No warranty
 
    THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-8. Limitation of liability
+9. Limitation of liability
 
    TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR,
    Edwin RodMen, BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
    OR IN CONNECTION WITH THE GAME OR ITS USE.
 
-9. Termination
+10. Termination
 
-   Your permissions under this license end automatically if you break its
-   terms. Copies you shared while you were following it remain licensed to the
-   people who received them.
+    Your permissions under this license end automatically if you break its
+    terms. Copies you shared while you were following it remain licensed to the
+    people who received them.
 
-10. Versions
+11. Versions
 
     Each release of the Game is governed by the LICENSE that comes with it.
 
-11. Anything else
+12. Anything else
 
     For any use this license does not cover (a translation, a physical or
     paid release, an event, or an exception to any term above), ask

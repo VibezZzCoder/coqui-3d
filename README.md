@@ -10,15 +10,16 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.6.1: an early version.** Six of the game's seven regions are
-> here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey
-> and Cabo Rojo, with 42 stages between them. The final region arrives in a later
-> update, and the game says so wherever it appears.
+> **Version 0.7.0: an early version.** All seven of the game's regions are
+> here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
+> Cabo Rojo and the finale, El Gran Coro, with 48 stages between them. The
+> Challenges arrive in a later update, and the game says so wherever they appear.
 
-<p align="center"><img src="media/cabo-rojo-playa-sucia.png" width="760" alt="Playa Sucia in Cabo Rojo: the curved bay, coastal cliffs and Los Morrillos lighthouse beyond the hopping route"></p>
+<p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.6.1: quieter, less repetitive backgrounds across every region, with
-clear nearby hazard warnings and a more natural treefrog return in El Bosque Seco.*
+*New in 0.7.0: El Gran Coro, the finale. Six stages through one stormy night back
+in the barrio where the journey began, the island's chorus on the hilltop, and an
+ending. Frogs' throats now swell when they call, in every region.*
 
 ## The story so far
 
@@ -33,25 +34,29 @@ carries on into the old streets of San Juan, the rainforest of El Yunque, the
 granite ravines of Los Guajonales, the mountain roads of the Sierra de Cayey
 and the coast of Cabo Rojo.
 Each region is one evening, from sunset to full night, and at its end the
-chorus answers.
+chorus answers. Then the coquí goes home for one last night, **El Gran Coro**:
+a storm crosses the barrio, breaks and clears, and on the hilltop, in the old
+mango tree, the whole island's chorus meets.
 
 |  |  |
 |---|---|
 | ![La Carreterita, El Barrio, at sunset](media/el-barrio-la-carreterita.png) | ![La Coca waterfall, El Yunque, at dusk](media/el-yunque-la-coca.png) |
 | ![La Plazuela, Viejo San Juan, at dusk](media/viejo-san-juan-la-plazuela.png) | ![La Laja, Los Guajonales, with granite landings and a stream](media/los-guajonales-la-laja.png) |
-| ![Las Tetas, Sierra de Cayey, with the twin peaks at full night](media/sierra-de-cayey-las-tetas.png) | ![Four friends on Calle del Sol, Viejo San Juan](media/four-friends.png) |
+| ![Las Tetas, Sierra de Cayey, with the twin peaks at full night](media/sierra-de-cayey-las-tetas.png) | ![Playa Sucia in Cabo Rojo: the curved bay, coastal cliffs and Los Morrillos lighthouse](media/cabo-rojo-playa-sucia.png) |
+| ![The old mango tree on the barrio's hilltop in El Gran Coro, cucubanos in its crown](media/el-gran-coro-the-mango.png) | ![Four friends on Calle del Sol, Viejo San Juan](media/four-friends.png) |
 
 *La Carreterita in El Barrio; La Coca in El Yunque; La Plazuela in Viejo San
-Juan; La Laja in Los Guajonales; Las Tetas in the Sierra de Cayey; and four
-friends on Calle del Sol.*
+Juan; La Laja in Los Guajonales; Las Tetas in the Sierra de Cayey; Playa
+Sucia, with Los Morrillos lighthouse, in Cabo Rojo; the old mango at the summit
+of El Gran Coro; and four friends on Calle del Sol.*
 
 ## How to play
 
 **Reach the perch.** Every stage is one screen. Your frog starts at the bottom
 and hops, one square at a time, to the perch waiting across the way: a
-hibiscus, a planter, a leafy bed, a sheltered granite edge or a mountain
-stone seat or a coastal stone bench. With friends,
-the stage ends when every frog is on the perch.
+hibiscus, a planter, a leafy bed, a sheltered granite edge, a mountain
+stone seat, a coastal stone bench or, at the very end, the fork of an old
+mango tree. With friends, the stage ends when every frog is on the perch.
 
 **One press, one hop.** Each press is one hop in one of four directions, with
 no diagonals, and holding a direction does not repeat. A hop is a commitment:
@@ -75,15 +80,18 @@ Hop onto one to catch it for **300** points.
 **Hazards.** Cars, motos, pickups and delivery vans on the roads; a hen in the
 patio before dusk; a mongoose that rustles in the hedge, then dashes across; the
 Puerto Rican boa, long and slow, after dark; and neighbours out walking in the
-streets of Viejo San Juan. Arrows at the edge of the screen warn you of
-vehicles on their way. El Yunque adds slippery mud, rising water, crab spiders
+streets of Viejo San Juan. Headlights and engines tell you a vehicle is on its
+way; if you'd like arrows at the edge of the screen too, turn on *Traffic
+arrows* in Settings. El Yunque adds slippery mud, rising water, crab spiders
 and the múcaro. Los Guajonales adds guabás, tarántulas and shower-fed streams
 that rise across the route. The Sierra de Cayey adds mountain roads with a
 hairpin bend, steep climbs watched by several múcaros at once, and cloud on
 the ridge that dims the distance but never hides a warning. Cabo Rojo brings
 shore crabs, surf washing over the beach, salt-pan tide gates, Cuban tree frogs
-and yaboas watching the mangroves and harbour. Watch the scenery
-and choose your moment to hop.
+and yaboas watching the mangroves and harbour. El Gran Coro brings the
+mountain's own back for one night: three lanes of traffic on a hairpin, rain
+that floods the paths, a stream in flood, fog on a coffee slope, and two
+múcaros over the old mango. Watch the scenery and choose your moment to hop.
 
 **Tumbles, not lives.** If something catches you, your frog tumbles and pops
 back at its own start square. There are no lives and no game over: try again as
@@ -102,6 +110,12 @@ the safe-hop highlight on from the first stage, in Settings.
 **End of the evening.** After a region's last stage comes *Evening complete*:
 your totals, and a title for every frog, from *Not a Scratch* and *Insect
 Hunter* to *Bounce-Back Coquí*, *Biggest Prankster* and *Tumble Champion*.
+The journey's very last stage ends its own way, with the chorus, a short ending
+and the credits.
+
+**Cutscenes.** El Gran Coro tells its night in short scenes. The first time,
+each one plays through; after that, a tap or press shows a **Skip** button in
+an upper corner.
 
 ## Controls
 
@@ -175,9 +189,9 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.6.1
+## What's in version 0.7.0
 
-An early version, with **6 of the 7 regions**:
+An early version, with **all 7 regions**:
 
 | El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
 |---|---|---|
@@ -199,6 +213,34 @@ An early version, with **6 of the 7 regions**:
 | 6. El Risco | 6. Las Tetas | 6. El Poblado |
 | 7. La Cueva | | 7. Puerto Real |
 | 8. El Guajonal | | 8. La Plaza |
+
+| El Gran Coro: 6 stages |
+|---|
+| 1. El Sereno |
+| 2. La Cuesta |
+| 3. Los Zocos |
+| 4. La Quebrada |
+| 5. La Jalda |
+| 6. El Gran Coro |
+
+### What's new in 0.7.0
+
+- **El Gran Coro, the finale:** one night back in the barrio where the journey
+  began. A storm builds over La Cuesta and breaks over Los Zocos, the ravine of
+  La Quebrada runs in flood, fog fills the coffee rows of La Jalda, and on the
+  hilltop, under the Milky Way, the friends of the whole journey wait in the old
+  mango tree.
+- **A chorus that grows:** each stage adds the next region's instrument to the
+  barrio's tune, until the summit gathers them all.
+- **An ending:** a wordless closing scene, the golden coquí, and credits that
+  look back over every region.
+- **Throats, not bubbles:** in every region, a calling frog's throat now swells
+  from the jaw instead of a round sac.
+- **Traffic you don't see coming:** the arrows at the edge of the screen are
+  now a setting, *Traffic arrows*, off unless you turn it on. Headlights and
+  engines still warn you.
+- **Settings say what they change:** the comfort options note how they alter
+  the game, so you can choose knowingly.
 
 ### What's new in 0.6.1
 
@@ -244,14 +286,13 @@ An early version, with **6 of the 7 regions**:
   catches.
 
 Each region's stages run from sunset to full night. Finishing El Barrio carries
-you into Viejo San Juan, then El Yunque, Los Guajonales, the Sierra de
-Cayey and Cabo Rojo. **Continue journey**
-picks up at the stage you were on, and **Choose region** replays any region you
-have reached.
+you into Viejo San Juan, then El Yunque, Los Guajonales, the Sierra de Cayey,
+Cabo Rojo and, last, El Gran Coro. **Continue journey** picks up at the stage
+you were on, and **Choose region** replays any region you have reached. Once
+the journey is complete, the menu offers to replay the finale.
 
-The final region, El Gran Coro, arrives in a later update. Until then, the
-menus mark it *Arrives in a later update*, and the **Challenges** on the menu, which open after the
-whole journey, are still to come as well.
+The **Challenges** on the menu open after the whole journey. They are still to
+come: choosing them says *Challenges arrive in a later update*.
 
 ### Mallorcas
 
@@ -267,14 +308,15 @@ here because a player of the first game asked for them.
 |---|---|
 | **Sound** | Master, Music, Night ambience, Frog calls and Effects volumes |
 | **Display** | Quality (*Auto* adapts to your device; or High, Medium, Low), Reduce motion, Text size, High-contrast HUD, and a frame-rate readout |
-| **Play** | Safe-moment highlight when playing alone, and touch button size |
+| **Play** | Safe-moment highlight when playing alone, Traffic arrows, and touch button size |
 | **Keyboard** | New keys for both halves of the keyboard, or *Reset keys* |
 | **Save data** | *Erase save data*, from the main menu's Settings only, asked twice |
 
 ## Saving
 
 The game saves by itself: how far your journey has gone, your best scores and
-times, the insects and mallorcas you have found, and your settings. There is no account.
+times, the insects and mallorcas you have found, the cutscenes you have watched,
+and your settings. There is no account.
 
 Everything is kept **in this browser, on this device**. Another browser, another
 device or a private window starts fresh, and clearing this site's data in your
@@ -367,9 +409,13 @@ official game, complete and unchanged, with its credits, `LICENSE` and
 **Videos are welcome.** Stream it, record it, review it and post screenshots,
 monetized or not, without asking first.
 
+**Fan art is welcome too.** Draw it, cosplay it, write about it or play its
+music your own way, and share it free of charge. Just make it yourself rather
+than copying the game's files, and don't present it as official.
+
 **Please don't** sell it or charge for access to it; change it, rename it or
-rebrand it; pass it off as someone else's; or reuse its code, art, music,
-sounds or stages in other work.
+rebrand it; pass it off as someone else's; or copy its code, art, music,
+sounds or stages into other work.
 
 The full terms are in [`LICENSE`](LICENSE). [`NOTICE.md`](NOTICE.md) covers
 authorship, the places the game depicts, and the three.js license. For anything

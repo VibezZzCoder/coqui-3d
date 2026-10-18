@@ -39,7 +39,8 @@ the rainforest of El Yunque, the granite ravines called guajonales and the
 mountain roads and peaks of the Sierra de Cayey, and Cabo Rojo's coast, salt
 pans, mangroves and town. Its stages are imagined routes, inspired by these
 places rather than navigable maps. Los Morrillos lighthouse and the San Miguel
-Arcángel church are recreated in code as public landmarks. Its people,
+Arcángel church are recreated in code as public landmarks, and the flag of
+Puerto Rico, a public national symbol, is drawn in code. Its people,
 vehicles, shops and signs are generic, apart from public place names, a highway's
 route shield and kilometer marker. The frog species are real
 Puerto Rican animals; their looks and calls in the game are recreations made in
