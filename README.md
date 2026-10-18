@@ -10,16 +10,17 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.7.0: an early version.** All seven of the game's regions are
+> **Version 0.7.1: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them. The
 > Challenges arrive in a later update, and the game says so wherever they appear.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.7.0: El Gran Coro, the finale. Six stages through one stormy night back
-in the barrio where the journey began, the island's chorus on the hilltop, and an
-ending. Frogs' throats now swell when they call, in every region.*
+*New in 0.7.1: each stage opens with the camera swooping into place and its name
+held long enough to read, a new coquí on every finish, and the flag of Puerto Rico
+stays over the barrio once you've finished the journey. El Gran Coro, the finale,
+arrived in 0.7.0.*
 
 ## The story so far
 
@@ -189,7 +190,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.7.0
+## What's in version 0.7.1
 
 An early version, with **all 7 regions**:
 
@@ -222,6 +223,19 @@ An early version, with **all 7 regions**:
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.7.1
+
+- **Stage openings:** the camera swoops down into place as each stage begins,
+  and the stage's name and line stay on screen long enough to read. With
+  *Reduce motion* on, the camera stays still.
+- **A new coquí on every finish:** the medallion on each stage's finish line
+  has a newly drawn coquí, toe pads and all.
+- **The flag stays:** once you've finished the journey, the flag of Puerto Rico
+  flies over the colmado behind the title and menus.
+- **Fixes:** the potted plants in El Patio grow from the middle of their pots,
+  and Cabo Rojo's parked cars no longer show dark squares in their windows on
+  High graphics.
 
 ### What's new in 0.7.0
 
