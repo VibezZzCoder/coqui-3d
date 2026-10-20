@@ -10,17 +10,18 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.7.1: an early version.** All seven of the game's regions are
+> **Version 0.8.0: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them. The
-> Challenges arrive in a later update, and the game says so wherever they appear.
+> first three Challenges are here too; the other eleven arrive in a later
+> update, and the game says so wherever they appear.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.7.1: each stage opens with the camera swooping into place and its name
-held long enough to read, a new coquí on every finish, and the flag of Puerto Rico
-stays over the barrio once you've finished the journey. El Gran Coro, the finale,
-arrived in 0.7.0.*
+*New in 0.8.0: the first three Challenges, hard remixes of stages you know, open
+once you've finished the journey; playing alone, a frog view puts the camera
+right behind your coquí; and help waits a little longer before it offers itself.
+El Gran Coro, the finale, arrived in 0.7.0.*
 
 ## The story so far
 
@@ -102,9 +103,9 @@ often as you like. Nobody else is sent back.
 is on its way, and keeps running while it picks itself up after a tumble.
 Reaching the perch is worth **500**, and every second left is worth **10**.
 
-**Help when you want it.** After three tumbles on a stage, press Call while
+**Help when you want it.** After six tumbles on a stage, press Call while
 standing on your start square to show which hops are safe right now. After
-five, you can skip to the perch instead: a skipped frog scores the clear points
+ten, you can skip to the perch instead: a skipped frog scores the clear points
 but no bonus, and the records note the skip. Playing alone, you can also turn
 the safe-hop highlight on from the first stage, in Settings.
 
@@ -129,6 +130,7 @@ the right (the arrow half).
 | Call / confirm | **E** or **Space** | **Enter**, **Right Shift**, **Numpad Enter** or **Numpad 0** |
 | Back | **Q** | **Backspace** |
 | Pause | **Esc** | **P** |
+| Frog view (playing alone) | **C** | **/** |
 
 **Keyboard keys can be changed** in Settings → Keyboard: choose an action, then
 press its new key. *Reset keys* brings back the defaults.
@@ -139,11 +141,13 @@ press its new key. *Reset keys* brings back the defaults.
 | Call / confirm | The bottom face button: **A** on Xbox, **✕** on PlayStation, **B** on Nintendo |
 | Back | The right face button (**B**, **○**, or **A** on Nintendo), or Back / Select |
 | Pause | **Start**, **Options** or **+** |
+| Frog view (playing alone) | The top face button: **Y** on Xbox, **△** on PlayStation |
 
 <img src="media/phone-portrait.png" width="230" align="right" alt="El Colmado at nightfall on a phone held upright, with the D-pad, Call and Pause buttons below the stage">
 
 **On a touch screen**, swipe on the stage to hop, or tap the on-screen arrows.
-The large **Call** button calls and the small **Pause** button pauses. The
+The large **Call** button calls and the small **Pause** button pauses; playing
+alone, the small button above Call switches to the frog view and back. The
 buttons appear with your first touch: below the stage when the phone is upright,
 at the sides when it is turned. Settings → *Touch button size* makes them
 smaller or larger.
@@ -190,7 +194,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.7.1
+## What's in version 0.8.0
 
 An early version, with **all 7 regions**:
 
@@ -223,6 +227,25 @@ An early version, with **all 7 regions**:
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.8.0
+
+- **The first three Challenges:** once the journey is complete, the menu's
+  Challenges open with harder remixes of La Carreterita, Las Bromelias and
+  Playa Sucia, each with its own records and badges. The other eleven arrive
+  in a later update.
+- **Frog view:** playing alone, press **C** (or **/**, the controller's top face
+  button, or the small button above Call) to put the camera right behind your
+  coquí for a close look; press again to return to the whole stage. Settings →
+  Play remembers it.
+- **Help waits longer:** help is offered after six tumbles on a stage and the
+  skip after ten, instead of three and five.
+- **The title hillside:** open pasture, grass and wooded ridges instead of
+  rows of round bushes, with power lines on proper roadside poles and street
+  lamps that light the road.
+- **Fixes:** Playa Sucia's headland and lighthouse, the distant plaza in La
+  Plaza and the peaks of Las Tetas no longer change shape while the camera
+  moves.
 
 ### What's new in 0.7.1
 
@@ -305,8 +328,20 @@ Cabo Rojo and, last, El Gran Coro. **Continue journey** picks up at the stage
 you were on, and **Choose region** replays any region you have reached. Once
 the journey is complete, the menu offers to replay the finale.
 
-The **Challenges** on the menu open after the whole journey. They are still to
-come: choosing them says *Challenges arrive in a later update*.
+### Challenges
+
+The **Challenges** on the menu open after the whole journey. They are the hard
+mode: remixes of journey stages with faster traffic, more hazards and tighter
+gaps. Three are here: **La Carreterita** (Hard), **Las Bromelias** (Expert) and
+**Playa Sucia** (Hard). The other eleven arrive in a later update, and the list
+says so.
+
+Each Challenge keeps its own records, alone and in a group: the clear, the
+fastest time and the best score, and two badges, *No tumbles* and *All
+insects*. Help is still there if you need it, but an attempt that uses it (or
+the safe-hop highlight) counts as *assisted* and earns no badges. Skipping to
+the perch ends the attempt with no credit, so the game asks for Call twice.
+The frog view is only a viewpoint, and never counts as help.
 
 ### Mallorcas
 
@@ -322,15 +357,15 @@ here because a player of the first game asked for them.
 |---|---|
 | **Sound** | Master, Music, Night ambience, Frog calls and Effects volumes |
 | **Display** | Quality (*Auto* adapts to your device; or High, Medium, Low), Reduce motion, Text size, High-contrast HUD, and a frame-rate readout |
-| **Play** | Safe-moment highlight when playing alone, Traffic arrows, and touch button size |
+| **Play** | Safe-moment highlight when playing alone, Frog view (playing alone), Traffic arrows, and touch button size |
 | **Keyboard** | New keys for both halves of the keyboard, or *Reset keys* |
 | **Save data** | *Erase save data*, from the main menu's Settings only, asked twice |
 
 ## Saving
 
 The game saves by itself: how far your journey has gone, your best scores and
-times, the insects and mallorcas you have found, the cutscenes you have watched,
-and your settings. There is no account.
+times, your Challenge records and badges, the insects and mallorcas you have
+found, the cutscenes you have watched, and your settings. There is no account.
 
 Everything is kept **in this browser, on this device**. Another browser, another
 device or a private window starts fresh, and clearing this site's data in your
