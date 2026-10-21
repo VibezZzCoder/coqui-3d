@@ -10,18 +10,17 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.8.0: an early version.** All seven of the game's regions are
+> **Version 0.9.0: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
-> Cabo Rojo and the finale, El Gran Coro, with 48 stages between them. The
-> first three Challenges are here too; the other eleven arrive in a later
-> update, and the game says so wherever they appear.
+> Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, and all
+> fourteen Challenges, the game's hard mode.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.8.0: the first three Challenges, hard remixes of stages you know, open
-once you've finished the journey; playing alone, a frog view puts the camera
-right behind your coquí; and help waits a little longer before it offers itself.
-El Gran Coro, the finale, arrived in 0.7.0.*
+*New in 0.9.0: all fourteen Challenges, a Hard and an Expert night in every
+region, open once you've finished the journey; and help offers no longer cover
+the road ahead. The first three Challenges and the frog view arrived in 0.8.0,
+and El Gran Coro, the finale, in 0.7.0.*
 
 ## The story so far
 
@@ -194,7 +193,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.8.0
+## What's in version 0.9.0
 
 An early version, with **all 7 regions**:
 
@@ -228,12 +227,27 @@ An early version, with **all 7 regions**:
 | 5. La Jalda |
 | 6. El Gran Coro |
 
+### What's new in 0.9.0
+
+- **All fourteen Challenges:** eleven new ones join the first three, so every
+  region now has a Hard and an Expert night: El Coro, La Plazuela, Calle de la
+  Luna, La Poza, La Palma de Sierra, Los Peñones, El Risco, La Curva, Puerto
+  Real, Los Zocos and La Jalda.
+- **Help stays off the road:** help and skip offers now show in one line,
+  below the stage where there is room or else under the scores, never over the
+  crossing in front of you, with each player's own Call key. In a Challenge each offer shows once per
+  attempt.
+- **The Challenge list says when there is more below**, and scrolls there on a
+  click.
+- **Puerto Real:** the houses on the far hillside now catch the moonlight
+  instead of standing out as black blocks.
+
 ### What's new in 0.8.0
 
 - **The first three Challenges:** once the journey is complete, the menu's
   Challenges open with harder remixes of La Carreterita, Las Bromelias and
-  Playa Sucia, each with its own records and badges. The other eleven arrive
-  in a later update.
+  Playa Sucia, each with its own records and badges. (The other eleven
+  followed in 0.9.0.)
 - **Frog view:** playing alone, press **C** (or **/**, the controller's top face
   button, or the small button above Call) to put the camera right behind your
   coquí for a close look; press again to return to the whole stage. Settings →
@@ -332,9 +346,18 @@ the journey is complete, the menu offers to replay the finale.
 
 The **Challenges** on the menu open after the whole journey. They are the hard
 mode: remixes of journey stages with faster traffic, more hazards and tighter
-gaps. Three are here: **La Carreterita** (Hard), **Las Bromelias** (Expert) and
-**Playa Sucia** (Hard). The other eleven arrive in a later update, and the list
-says so.
+gaps. Each region has a Hard night and an Expert one; try Hard first, though
+Expert is open too.
+
+| Region | Hard | Expert |
+|---|---|---|
+| El Barrio | **La Carreterita** | **El Coro** |
+| Viejo San Juan | **La Plazuela** | **Calle de la Luna** |
+| El Yunque | **La Poza** | **La Palma de Sierra** |
+| Los Guajonales | **Los Peñones** | **El Risco** |
+| Sierra de Cayey | **La Curva** | **Las Bromelias** |
+| Cabo Rojo | **Playa Sucia** | **Puerto Real** |
+| El Gran Coro | **Los Zocos** | **La Jalda** |
 
 Each Challenge keeps its own records, alone and in a group: the clear, the
 fastest time and the best score, and two badges, *No tumbles* and *All
