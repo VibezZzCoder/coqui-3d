@@ -10,17 +10,17 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.9.0: an early version.** All seven of the game's regions are
+> **Version 0.9.1: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, and all
 > fourteen Challenges, the game's hard mode.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.9.0: all fourteen Challenges, a Hard and an Expert night in every
-region, open once you've finished the journey; and help offers no longer cover
-the road ahead. The first three Challenges and the frog view arrived in 0.8.0,
-and El Gran Coro, the finale, in 0.7.0.*
+*New in 0.9.1: roomier touch buttons, a clearer frog-view button, a quieter
+ending, and Challenges that always open for a finished journey. All fourteen
+Challenges, a Hard and an Expert night in every region, arrived in 0.9.0; the
+first three and the frog view in 0.8.0, and El Gran Coro, the finale, in 0.7.0.*
 
 ## The story so far
 
@@ -146,7 +146,8 @@ press its new key. *Reset keys* brings back the defaults.
 
 **On a touch screen**, swipe on the stage to hop, or tap the on-screen arrows.
 The large **Call** button calls and the small **Pause** button pauses; playing
-alone, the small button above Call switches to the frog view and back. The
+alone, the small camera button (a frame around a coquí) switches to the frog
+view and back. The
 buttons appear with your first touch: below the stage when the phone is upright,
 at the sides when it is turned. Settings → *Touch button size* makes them
 smaller or larger.
@@ -193,7 +194,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.9.0
+## What's in version 0.9.1
 
 An early version, with **all 7 regions**:
 
@@ -226,6 +227,21 @@ An early version, with **all 7 regions**:
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.9.1
+
+- **Roomier touch buttons:** the four arrows now stand clearly apart, and the
+  frog-view button has its own space instead of squeezing between Pause and
+  Call: at the top of the button band when the phone is upright, midway between
+  Pause and Call when it is turned. Call keeps its full size.
+- **A clearer frog-view button:** a camera frame around a coquí's face (or
+  around the board, to go back). It now appears with the other buttons as each
+  stage begins, instead of a moment later.
+- **A quieter ending:** the far generator on the summit runs down as the final
+  chorus begins, instead of chugging under the closing scenes.
+- **Challenges open for a finished journey:** a save that has completed
+  El Gran Coro always opens the Challenges.
+- **Credits:** the version line no longer says Challenges are still to come.
 
 ### What's new in 0.9.0
 
