@@ -10,17 +10,19 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.9.1: an early version.** All seven of the game's regions are
+> **Version 0.10.0: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
-> Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, and all
-> fourteen Challenges, the game's hard mode.
+> Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
+> fourteen Challenges, the game's hard mode, and **Battle**, for two to four
+> friends. More stages and Challenges arrive in later updates.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.9.1: roomier touch buttons, a clearer frog-view button, a quieter
-ending, and Challenges that always open for a finished journey. All fourteen
-Challenges, a Hard and an Expert night in every region, arrived in 0.9.0; the
-first three and the frog view in 0.8.0, and El Gran Coro, the finale, in 0.7.0.*
+*New in 0.10.0: **Battle**, last frog standing for two to four friends on one
+screen, on a rock shelf over a gorge in El Yunque. Roomier touch buttons came in
+0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
+0.9.0; the first three and the frog view in 0.8.0, and El Gran Coro, the finale,
+in 0.7.0.*
 
 ## The story so far
 
@@ -171,11 +173,42 @@ controllers, and one player can use the touch screen.
 
 Press Back to stop being ready, and Back again to leave.
 
-Nobody wins and nobody loses. Everyone crosses at their own pace, and a tumble
-only sends that frog back. Hop into a friend and you bump them one square along
+Nobody wins and nobody loses on the journey (for a contest, try
+[Battle](#battle)). Everyone crosses at their own pace, and a tumble only sends
+that frog back. Hop into a friend and you bump them one square along
 (a *Bump!*, or a *Prank!* if they get caught right after). If a controller
 disconnects, the game pauses until it comes back, or until someone presses Call
 on a free controller or keyboard half to take over that frog.
+
+## Battle
+
+<p align="center"><img src="media/battle.png" width="760" alt="Battle on El Claro: four frogs on a rock shelf over a dark gorge in El Yunque, the scores along the top"></p>
+
+**Last frog standing.** Two to four friends share one screen on **El Claro**, a
+shelf of volcanic rock over a deep gorge in El Yunque. Hop into a frog to shove
+it one square; shove it over the edge and it is out, and a hop of your own over
+the edge puts you out too. The last frog on the rock wins the round, and the
+first to win **three** rounds wins the match. If the last frogs go out together,
+the round is a draw and nobody scores.
+
+**The forest joins in.** The múcaro swoops on the patch it marks with its
+shadow, and two giant crab spiders strike from their pockets in the rock; a
+frog caught by any of them is out. Then comes **sudden death**: the rock falls
+away from the outside in, ring by ring, each ring cracking before it goes, until
+one foothold is left.
+
+**Choose the pace:** *Normal* gives room to plan, with sudden death at one
+minute; *Fast* is a rush from the start, with sudden death at 45 seconds.
+
+1. Choose **Battle** on the main menu, then the pace.
+2. Each player presses Call on their own controller or keyboard half to join,
+   picks a frog (all four are free) and gets ready. Anyone's Call or Start
+   begins.
+3. Frogs that are out watch from a fallen log and can still call. After the
+   match: *Rematch*, *Change players* or *Main menu*.
+
+Battle is made for **controllers**: two players sharing one keyboard can miss
+presses made at the same moment. Anyone can pause. Nothing in Battle is saved.
 
 ## The frogs
 
@@ -194,9 +227,10 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.9.1
+## What's in version 0.10.0
 
-An early version, with **all 7 regions**:
+An early version, with **all 7 regions** (more stages arrive in later
+updates), the fourteen [Challenges](#challenges) and [Battle](#battle):
 
 | El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
 |---|---|---|
@@ -227,6 +261,16 @@ An early version, with **all 7 regions**:
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.10.0
+
+- **Battle:** a new mode for two to four friends on one screen: shove each
+  other off a rock shelf over a gorge in El Yunque, dodge the múcaro and the
+  crab spiders, and hold on through sudden death as the rock falls away. First
+  to three round wins takes the match, at a Normal or a Fast pace. See
+  [Battle](#battle).
+- **Challenges** now say that more stages and Challenges are on the way, and so
+  does the version line in Credits.
 
 ### What's new in 0.9.1
 
@@ -363,7 +407,7 @@ the journey is complete, the menu offers to replay the finale.
 The **Challenges** on the menu open after the whole journey. They are the hard
 mode: remixes of journey stages with faster traffic, more hazards and tighter
 gaps. Each region has a Hard night and an Expert one; try Hard first, though
-Expert is open too.
+Expert is open too. More stages and Challenges arrive in later updates.
 
 | Region | Hard | Expert |
 |---|---|---|
