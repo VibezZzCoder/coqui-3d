@@ -10,17 +10,17 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.10.0: an early version.** All seven of the game's regions are
+> **Version 0.11.5: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
 > fourteen Challenges, the game's hard mode, and **Battle**, for two to four
-> friends. More stages and Challenges arrive in later updates.
+> friends, on two arenas.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.10.0: **Battle**, last frog standing for two to four friends on one
-screen, on a rock shelf over a gorge in El Yunque. Roomier touch buttons came in
-0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
+*New in 0.11.5: **La Cuchilla**, Battle's second arena, a ridge road in El
+Barrio at dusk with cars, hens and a landslide. Battle came in 0.10.0, on a rock
+shelf over a gorge in El Yunque; roomier touch buttons in 0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
 0.9.0; the first three and the frog view in 0.8.0, and El Gran Coro, the finale,
 in 0.7.0.*
 
@@ -184,23 +184,38 @@ on a free controller or keyboard half to take over that frog.
 
 <p align="center"><img src="media/battle.png" width="760" alt="Battle on El Claro: four frogs on a rock shelf over a dark gorge in El Yunque, the scores along the top"></p>
 
-**Last frog standing.** Two to four friends share one screen on **El Claro**, a
-shelf of volcanic rock over a deep gorge in El Yunque. Hop into a frog to shove
-it one square; shove it over the edge and it is out, and a hop of your own over
-the edge puts you out too. The last frog on the rock wins the round, and the
+**Last frog standing.** Two to four friends share one screen. Hop into a frog to
+shove it one square; shove it over the edge and it is out, and a hop of your own
+over the edge puts you out too. The last frog on the rock wins the round, and the
 first to win **three** rounds wins the match. If the last frogs go out together,
 the round is a draw and nobody scores.
 
-**The forest joins in.** The múcaro swoops on the patch it marks with its
+### El Claro
+
+A shelf of volcanic rock over a deep gorge in El Yunque. **The forest joins
+in:** the múcaro swoops on the patch it marks with its
 shadow, and two giant crab spiders strike from their pockets in the rock; a
 frog caught by any of them is out. Then comes **sudden death**: the rock falls
 away from the outside in, ring by ring, each ring cracking before it goes, until
 one foothold is left.
 
-**Choose the pace:** *Normal* gives room to plan, with sudden death at one
-minute; *Fast* is a rush from the start, with sudden death at 45 seconds.
+### La Cuchilla
 
-1. Choose **Battle** on the main menu, then the pace.
+<p align="center"><img src="media/battle-la-cuchilla.png" width="760" alt="Battle on La Cuchilla: frogs on a ridge road in El Barrio at dusk, a car on the road and the valley's lights below"></p>
+
+A two-lane road along a ridgetop in El Barrio at dusk, with a drop on both
+sides. **Cars** come round the bend, their headlights sweeping ahead of them,
+and a frog they hit is out. Then the **hens** come up the banks: a hen shoves a
+frog one square but never knocks it out. The traffic picks up, and then comes
+**sudden death**, the *derrumbe*: the ridge gives way from the edges in, the
+road is closed, and the last cars drive through.
+
+**Choose the arena and the pace** on the same plate (Left/Right, or tap the
+arena's name). *Normal* gives room to plan, with sudden death at one minute;
+*Fast* is a rush from the start, with sudden death at 45 seconds on El Claro
+and 28 on La Cuchilla.
+
+1. Choose **Battle** on the main menu, then the arena and the pace.
 2. Each player presses Call on their own controller or keyboard half to join,
    picks a frog (all four are free) and gets ready. Anyone's Call or Start
    begins.
@@ -227,10 +242,10 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.10.0
+## What's in version 0.11.5
 
-An early version, with **all 7 regions** (more stages arrive in later
-updates), the fourteen [Challenges](#challenges) and [Battle](#battle):
+An early version, with **all 7 regions**, the fourteen
+[Challenges](#challenges) and [Battle](#battle) on two arenas:
 
 | El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
 |---|---|---|
@@ -262,6 +277,16 @@ updates), the fourteen [Challenges](#challenges) and [Battle](#battle):
 | 5. La Jalda |
 | 6. El Gran Coro |
 
+### What's new in 0.11.5
+
+- **La Cuchilla:** Battle's second arena, a ridge road in El Barrio at dusk.
+  Dodge the cars, mind the hens, and outlast the *derrumbe* as the ridge falls
+  away and the road closes, to the barrio's own music. Choose it on the pace
+  plate. See [La Cuchilla](#la-cuchilla).
+- **Battle on small screens:** knock-out messages wrap instead of running off
+  the screen, the countdown keeps clear of the frogs' start marks, and the
+  scores fit along the top of the narrowest phones.
+
 ### What's new in 0.10.0
 
 - **Battle:** a new mode for two to four friends on one screen: shove each
@@ -269,8 +294,6 @@ updates), the fourteen [Challenges](#challenges) and [Battle](#battle):
   crab spiders, and hold on through sudden death as the rock falls away. First
   to three round wins takes the match, at a Normal or a Fast pace. See
   [Battle](#battle).
-- **Challenges** now say that more stages and Challenges are on the way, and so
-  does the version line in Credits.
 
 ### What's new in 0.9.1
 
@@ -407,7 +430,7 @@ the journey is complete, the menu offers to replay the finale.
 The **Challenges** on the menu open after the whole journey. They are the hard
 mode: remixes of journey stages with faster traffic, more hazards and tighter
 gaps. Each region has a Hard night and an Expert one; try Hard first, though
-Expert is open too. More stages and Challenges arrive in later updates.
+Expert is open too.
 
 | Region | Hard | Expert |
 |---|---|---|
