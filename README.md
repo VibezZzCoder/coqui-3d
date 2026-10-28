@@ -10,7 +10,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.12.5: an early version.** All seven of the game's regions are
+> **Version 0.12.6: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
 > fourteen Challenges, the game's hard mode, and **Battle**, for two to four
@@ -18,9 +18,11 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.12.5: the journey opens with **El llamado**, a far call over El
-Patio at sunset that every frog answers, each region opens with a shot of its
-first stage, and an island map shows the way between regions. La Cuchilla,
+*New in 0.12.6: the game fits folding phones such as the iPhone Duo, open or
+closed, and the pause menu fits on a phone held sideways. The journey's
+cutscenes came in 0.12.5: **El llamado**, a far call over El Patio at sunset
+that every frog answers, a shot of each region's first stage, and an island
+map between regions. La Cuchilla,
 Battle's second arena, came in 0.11.5; Battle in 0.10.0, on a rock
 shelf over a gorge in El Yunque; roomier touch buttons in 0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
 0.9.0; the first three and the frog view in 0.8.0, and El Gran Coro, the finale,
@@ -244,7 +246,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.12.5
+## What's in version 0.12.6
 
 An early version, with **all 7 regions**, the fourteen
 [Challenges](#challenges) and [Battle](#battle) on two arenas:
@@ -278,6 +280,14 @@ An early version, with **all 7 regions**, the fourteen
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.12.6
+
+- **Folding phones:** on an open folding phone such as the iPhone Duo, held
+  sideways, the touch controls are full size, as on a tablet. On the closed
+  phone held sideways, the board stays big enough to read.
+- **Pause on a phone held sideways:** the pause menu now fits on screen, even
+  with Safari's toolbar showing, without scrolling.
 
 ### What's new in 0.12.5
 
