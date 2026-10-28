@@ -10,7 +10,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
 
-> **Version 0.11.5: an early version.** All seven of the game's regions are
+> **Version 0.12.5: an early version.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
 > fourteen Challenges, the game's hard mode, and **Battle**, for two to four
@@ -18,8 +18,10 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.11.5: **La Cuchilla**, Battle's second arena, a ridge road in El
-Barrio at dusk with cars, hens and a landslide. Battle came in 0.10.0, on a rock
+*New in 0.12.5: the journey opens with **El llamado**, a far call over El
+Patio at sunset that every frog answers, each region opens with a shot of its
+first stage, and an island map shows the way between regions. La Cuchilla,
+Battle's second arena, came in 0.11.5; Battle in 0.10.0, on a rock
 shelf over a gorge in El Yunque; roomier touch buttons in 0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
 0.9.0; the first three and the frog view in 0.8.0, and El Gran Coro, the finale,
 in 0.7.0.*
@@ -242,7 +244,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.11.5
+## What's in version 0.12.5
 
 An early version, with **all 7 regions**, the fourteen
 [Challenges](#challenges) and [Battle](#battle) on two arenas:
@@ -276,6 +278,21 @@ An early version, with **all 7 regions**, the fourteen
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 0.12.5
+
+- **El llamado:** the journey now opens at sunset in El Patio, where a far
+  coquí calls from up the hill and every frog in the party answers before it
+  sets off.
+- **Region openings:** the first stage of each region opens with a short shot
+  of the place, from Calle del Sol's balconies to the lighthouse at Los
+  Morrillos, before the camera settles into play. After the first time, you
+  can skip it.
+- **The island map:** between regions, a night map of Puerto Rico shows the
+  trail so far as your frogs hop on to the next region together.
+- **Sound:** the summit's road no longer churns under the finale's last scenes,
+  and with Frog calls turned down to zero, faraway calls no longer leave a faint
+  echo.
 
 ### What's new in 0.11.5
 
