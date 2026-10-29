@@ -8,9 +8,9 @@ friends on one screen.* A browser game by **Edwin RodMen**.
 No download and no account needed: it runs in a current web browser on a
 computer, a phone or a tablet.
 
-<p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk"></p>
+<p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk, the flag of Puerto Rico over the colmado"></p>
 
-> **Version 0.12.6: an early version.** All seven of the game's regions are
+> **Version 1.0.0: the whole game.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
 > fourteen Challenges, the game's hard mode, and **Battle**, for two to four
@@ -18,15 +18,19 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/el-gran-coro-el-sereno.png" width="760" alt="El Sereno in El Gran Coro: the barrio at night, a lit house above the wet road and stars over the valley"></p>
 
-*New in 0.12.6: the game fits folding phones such as the iPhone Duo, open or
-closed, and the pause menu fits on a phone held sideways. The journey's
-cutscenes came in 0.12.5: **El llamado**, a far call over El Patio at sunset
-that every frog answers, a shot of each region's first stage, and an island
-map between regions. La Cuchilla,
-Battle's second arena, came in 0.11.5; Battle in 0.10.0, on a rock
-shelf over a gorge in El Yunque; roomier touch buttons in 0.9.1; all fourteen Challenges, a Hard and an Expert night in every region, in
-0.9.0; the first three and the frog view in 0.8.0, and El Gran Coro, the finale,
-in 0.7.0.*
+*New in 1.0.0: each region's two Challenges open as soon as you finish that
+region, so the hard mode is waiting from the first evening; the flag of Puerto
+Rico flies over the title from the start, and after the journey the frogs who
+finished it sit on the colmado's sign beside it; the far generator hums through
+the finale's ending until the power comes back; and the Night ambience slider
+starts lower, with more room above it. Folding phones and the sideways pause
+menu came in 0.12.6; the journey's cutscenes, **El llamado**, a far call over
+El Patio at sunset that every frog answers, a shot of each region's first
+stage, and an island map between regions, in 0.12.5. La Cuchilla, Battle's
+second arena, came in 0.11.5; Battle in 0.10.0, on a rock shelf over a gorge
+in El Yunque; roomier touch buttons in 0.9.1; all fourteen Challenges, a Hard
+and an Expert night in every region, in 0.9.0; the first three and the frog
+view in 0.8.0, and El Gran Coro, the finale, in 0.7.0.*
 
 ## The story so far
 
@@ -246,9 +250,9 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 0.12.6
+## What's in version 1.0.0
 
-An early version, with **all 7 regions**, the fourteen
+The whole game: **all 7 regions**, the fourteen
 [Challenges](#challenges) and [Battle](#battle) on two arenas:
 
 | El Barrio: 7 stages | Viejo San Juan: 6 stages | El Yunque: 7 stages |
@@ -280,6 +284,26 @@ An early version, with **all 7 regions**, the fourteen
 | 4. La Quebrada |
 | 5. La Jalda |
 | 6. El Gran Coro |
+
+### What's new in 1.0.0
+
+- **Challenges open region by region:** finish a region in the journey and its
+  Hard and Expert Challenges open at once. The region's results say so, and
+  the menu marks them *New* until you've looked at them. The menu also calls
+  them what they are: the hard mode.
+- **The flag on every title:** the flag of Puerto Rico flies over the colmado
+  behind the title and menus from the first launch.
+- **Home on the colmado:** at the end of the journey, the frogs who finished it
+  sit along the top of the colmado's sign beside the flag and call in turn,
+  and they stay there on the title from then on.
+- **The finale's generator:** the far generator up the hill keeps humming
+  through the last stage's ending, louder than before, until the power comes
+  back on.
+- **Night ambience:** the slider starts at 60% and the night plays at that
+  level, a touch louder than before, with more room to turn it up. A saved
+  setting is converted once so it sounds the same.
+- **Frogs in a Challenge:** playing alone, you choose from the frogs the
+  journey has met, as in the journey itself.
 
 ### What's new in 0.12.6
 
@@ -454,10 +478,13 @@ the journey is complete, the menu offers to replay the finale.
 
 ### Challenges
 
-The **Challenges** on the menu open after the whole journey. They are the hard
-mode: remixes of journey stages with faster traffic, more hazards and tighter
-gaps. Each region has a Hard night and an Expert one; try Hard first, though
-Expert is open too.
+The **Challenges** are the game's hard mode: remixes of journey stages with
+faster traffic, more hazards and tighter gaps. Each region has a Hard night and
+an Expert one, and both open on the menu as soon as you finish that region in
+the journey: beat El Barrio and its two are waiting, marked *New*. Try Hard
+first, though Expert is open too.
+
+<p align="center"><img src="media/challenges.png" width="760" alt="The Challenges list part way through the journey: El Barrio, Viejo San Juan and El Yunque open, El Yunque's pair marked New, Los Guajonales locked until it is finished, and the regions ahead unnamed"></p>
 
 | Region | Hard | Expert |
 |---|---|---|
