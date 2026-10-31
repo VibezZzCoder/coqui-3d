@@ -10,7 +10,7 @@ computer, a phone or a tablet.
 
 <p align="center"><img src="media/title.png" width="760" alt="The title screen: the Coquí al Anochecer 2 wordmark over a hillside barrio at dusk, the flag of Puerto Rico over the colmado"></p>
 
-> **Version 1.0.0: the whole game.** All seven of the game's regions are
+> **Version 1.0.1: the whole game.** All seven of the game's regions are
 > here: El Barrio, Viejo San Juan, El Yunque, Los Guajonales, Sierra de Cayey,
 > Cabo Rojo and the finale, El Gran Coro, with 48 stages between them, all
 > fourteen Challenges, the game's hard mode, and **Battle**, for two to four
@@ -250,7 +250,7 @@ Guajonales, to unlock the guajón for later solo selections, and **Las
 Bromelias**, the fourth stage of the Sierra de Cayey, to unlock the golden
 coquí.
 
-## What's in version 1.0.0
+## What's in version 1.0.1
 
 The whole game: **all 7 regions**, the fourteen
 [Challenges](#challenges) and [Battle](#battle) on two arenas:

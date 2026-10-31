@@ -12,10 +12,8 @@
 | YouTube | [@EdwinRodMen](https://www.youtube.com/@EdwinRodMen) |
 | Copyright | © 2026 Edwin RodMen. All rights reserved. |
 
-The same credits are on the game's title screen and on its Credits screen
-(main menu → Credits), and they are written into the page itself: its metadata
-and the notices at the top of `index.html` and of the game's code. A copy of
-`index.html` says where it came from even without the files beside it.
+The credits and complete licence and notices are available from the game's
+main menu → Credits → Licence and notices, including when playing offline.
 
 The terms for using and sharing the game are in `LICENSE`.
 
